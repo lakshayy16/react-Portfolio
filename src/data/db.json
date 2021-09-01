@@ -1,0 +1,6 @@
+{
+"courses":[
+{ "title": "Java", "body": "Java is an Object oriented Lnaguage", "prof": "Pranav", "id": 1 },
+{ "title": "Data Structures", "body": "DS is a very important part of programming", "prof": "Sujata", "id": 2 },
+{ "title": "Web dev ", "body": "We need to know how to deploy apps on the web", "prof": "Sanjay", "id": 3 }
+]}
